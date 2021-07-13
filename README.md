@@ -3,6 +3,6 @@ My neme is Hesham Hassan, I am studying software engineering in LTUC and also I 
 #
 | Name  | Link |
 | ------------- | ------------- |
-| Growth Mindset  | [Go to](https://hesham-hassan9.github.io/reading-notes-Repo/GrowthMindset.md)  |
+| Growth Mindset  | [Go to](https://hesham-hassan9.github.io/reading-notes-Repo/)  |
 | Content Cell  | Content Cell  |
 
