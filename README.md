@@ -7,6 +7,8 @@ My neme is Hesham Hassan, I am studying software engineering in LTUC and also I 
  | Growth Mindset  | [Open Growth Mindset File](https://hesham-hassan9.github.io/reading-notes-Repo/GrowthMindset) |
  |  Read01  | [Open Read01 file](https://hesham-hassan9.github.io/reading-notes-Repo/Read01)  | 
  | Read02  | [Open Read02 file](https://hesham-hassan9.github.io/reading-notes-Repo/Read02)  |
+ |  Read03  | [Open Read03 file](https://hesham-hassan9.github.io/reading-notes-Repo/Read03)  | 
+ | Read04  | [Open Read04 file](https://hesham-hassan9.github.io/reading-notes-Repo/Read04)  |
  | My Accont  | [Open Accont in github](https://github.com/Hesham-Hassan9)  |
 
 # Thank you for using my web 
