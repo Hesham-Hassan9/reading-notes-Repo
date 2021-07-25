@@ -45,4 +45,3 @@ p {
 Copy to Clipboard
 You will find that you quickly learn some values, whereas others you will need to look up. The individual property pages on MDN give you a quick way to look up properties and their values when you forget, or want to know what else you can use as a value.
 
-# For more information in CSS click in [this Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) 

@@ -9,7 +9,4 @@ My neme is Hesham Hassan, I am studying software engineering in LTUC and also I 
  | Read02  | [Open Read02 file](https://hesham-hassan9.github.io/reading-notes-Repo/Read02)  |
  |  Read03  | [Open Read03 file](https://hesham-hassan9.github.io/reading-notes-Repo/Read03)  | 
  | Read04  | [Open Read04 file](https://hesham-hassan9.github.io/reading-notes-Repo/Read04)  |
- | My Accont  | [Open Accont in github](https://github.com/Hesham-Hassan9)  |
 
-# Thank you for using my web 
-![heart](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png)
