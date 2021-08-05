@@ -23,3 +23,4 @@ My neme is Hesham Hassan, I am studying software engineering in LTUC and also I 
  | Class-03    | [class-03](https://hesham-hassan9.github.io/reading-notes-Repo/class-03) |
  | Class-04    | [class-04](https://hesham-hassan9.github.io/reading-notes-Repo/class-04) |   
 | Class-05    | [class-05](https://hesham-hassan9.github.io/reading-notes-Repo/class-05) |
+| Class-06    | [class-06](https://hesham-hassan9.github.io/reading-notes-Repo/class-06) |
