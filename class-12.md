@@ -2,6 +2,7 @@
 Charts are much better for visualizing data than tables and have the added benefit of no one clicking on them to use as a charting tool. It's easier to look at and transfer data quickly, but it's not always easy to create. Chart.js is a great way to get started with Charts, a JavaScript plugin that uses an HTML5 panel element to draw a graph on a page. It's a well-documented plugin that makes using all kinds of bar charts, line charts, pie charts, and more, very easy. To learn how to use chart.js we will create a set of 3 charts; One will show the number of buyers of the imaginary product over 6 months, and this will be a line chart; The second will show which countries the customers come from, and this will be the pie chart; Finally we will use a bar chart to show the profit during the period.
 ## Setting
 The first thing we need to do is download Chart.js. Copy Chart.min.js from the unzipped folder to the directory you will be working in. Then create a new html page and import the script:
+
 ![Setting](photo/lab12.0.PNG)
 ## Drawing a line chart
 To draw a line chart, the first thing we need to do is create a canvas element in our HTML where Chart.js can draw your chart. So add this to the body of our HTML page:
