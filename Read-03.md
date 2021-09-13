@@ -64,7 +64,7 @@ let job = {
 };
 
 let employee = {
-    
+
     ...person,
     ...job
 };
@@ -82,3 +82,5 @@ Output:
     jobTitle: 'JavaScript Developer',
     location: 'USA'
 }
+
+
