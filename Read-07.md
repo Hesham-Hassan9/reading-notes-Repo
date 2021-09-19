@@ -16,12 +16,31 @@ We've been doing this for a long time but none of the technologies we use today 
 
 3. What is the HTTP protocol that Fielding and his friends created?
 
-Hypertext Transfer Protocol (HTTP) is designed to enable communications between clients and servers.
+HTTP: is a protocol created by Fielding and his friends - and it's all about applying verbs to nouns. For example, when you go to a webpage, the browser does an HTTP entry at the URL you typed and returns to the webpage.
 
 4. What does a GET do?
 
+GET is used to request data from a specific resource and is one of the most common HTTP methods.
+
 5. What does a POST do?
+
+POST is used to send data to a server to create or update a resource.
 
 6. What does PUT do?
 
+The PUT method is used to update the resources available on the server. It usually replaces whatever is in the target URL with something else. You can use it to create a new resource or overwrite an existing resource. PUT requires that the attached entity be stored under the required required URI (Uniform Resource Identifier).
+
 7. What does PATCH do?
+
+A patch is a set of changes to a computer program or its supporting data designed to update, repair, or improve it. This includes fixing vulnerabilities and other bugs, and these patches are usually called bug fixes or bug fixes.
+
+# API Keys
+
+1. Geocoding API
+
+pk.63ed749afa0be22351e66e27bc5c7ee6
+
+2. Weather Bit API
+
+f4b2aa2f35964f7da17ac12c91c35626
+
