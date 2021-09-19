@@ -45,4 +45,4 @@ My neme is Hesham Hassan, I am studying software engineering in LTUC and also I 
   | Read-04  | [Read-04](https://hesham-hassan9.github.io/reading-notes-Repo/Read-04)|
   | Read-05  | [Read-05](https://hesham-hassan9.github.io/reading-notes-Repo/Read-05)|
   | Read-06  | [Read-06](https://hesham-hassan9.github.io/reading-notes-Repo/Read-06)|
-  
+  | Read-07  | [Read-07](https://hesham-hassan9.github.io/reading-notes-Repo/Read-07)|
